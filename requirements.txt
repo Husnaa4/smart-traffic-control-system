@@ -1,0 +1,9 @@
+opencv-python
+easyocr
+numpy
+requests
+flask
+watchdog
+paramiko
+zmq
+picamera2
